@@ -1,6 +1,7 @@
 # Back-end developer exercise submited! NAKUL DAS
 
 Requirtements
+
 Running nginx or apache server,
 Already runing mysql,
 Already Composer Installed
@@ -9,15 +10,19 @@ Database Schema
 Create Database And change the .env file according Database name(*default db_name here `blogrender`), DB_PASSWORD,DB_HOST
 
 Install Composer Dependency by runing
+
 composer Install
 
 Install Node Dependency by runing
+
 npm install
 
 Migrate all Database Table
+
 php artisan migrate
 
 Run Depelopment Version
+
 php artisan serve
 
 
