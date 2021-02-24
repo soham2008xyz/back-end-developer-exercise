@@ -1,8 +1,8 @@
 # Back-end developer exercise submited! NAKUL DAS
 
 Requirtements:
-Running nginx or apache server
-Already runing mysql
+Running nginx or apache server,
+Already runing mysql,
 Already Composer Installed
 
 Database Schema:
