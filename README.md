@@ -1,11 +1,11 @@
 # Back-end developer exercise submited! NAKUL DAS
 
-Requirtements:
+Requirtements
 Running nginx or apache server,
 Already runing mysql,
 Already Composer Installed
 
-Database Schema:
+Database Schema
 Create Database And change the .env file according Database name(*default db_name here `blogrender`), DB_PASSWORD,DB_HOST
 
 Install Composer Dependency by runing
